@@ -7,5 +7,5 @@ In the end, the game had over 25 classes (each with their own .cc and .h file) a
 
 Below is the final UML diagram for our project:
 
-<img width="1000" alt="UML" src="https://user-images.githubusercontent.com/16049357/189257633-b24b3eb7-36d7-44dc-bd9d-7fb541dd4302.png">
+<img width="1000" alt="UML" src="https://raw.githubusercontent.com/braydonwang/Biquadris/main/uml.png">
 
