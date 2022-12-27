@@ -5,5 +5,7 @@ For our final project for CS246 during the Fall 2022 term, a peer and I made a v
 
 In the end, the game had over 25 classes (each with their own .cc and .h file) and one Makefile. All fields were private to promote encapsulation and all super classes were abstract to promote polymorphism. Each module has a single responsibility and interacts with other modules through basic calls to public methods. Due to Policy 71, the source code of this project is only available upon request.
 
+Below is the final UML diagram for our project:
 
+<img width="1000" alt="UML" src="https://user-images.githubusercontent.com/16049357/189257633-b24b3eb7-36d7-44dc-bd9d-7fb541dd4302.png">
 
