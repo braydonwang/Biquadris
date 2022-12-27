@@ -11,14 +11,12 @@ Below is the final UML diagram for our project:
 
 The game is displayed through both text and graphics (using the XWindows library)
 
-<img width="720" align="left" alt="graphics" src="https://raw.githubusercontent.com/braydonwang/Biquadris/main/images/graphicsdisplay.png">
-<img width="250" align="right" alt="text" src="https://raw.githubusercontent.com/braydonwang/Biquadris/main/images/textdisplay.png">
+<img width="600" align="left" alt="graphics" src="https://raw.githubusercontent.com/braydonwang/Biquadris/main/images/graphicsdisplay.png">
+<img width="200" alt="text" src="https://raw.githubusercontent.com/braydonwang/Biquadris/main/images/textdisplay.png">
 
 ## Bonus Features
 
 For our bonus features, we added colour to the text display, a new special action (layer - adds a layer of permanent blocks at the bottom of the opponent's board), and a new command (hold - holds the player's current block to be used in future turns)
 
-<p align="center">
-  <img width="720" align="left" alt="graphics" src="https://raw.githubusercontent.com/braydonwang/Biquadris/main/images/bonusgraphics.png">
-  <img width="250" align="right" alt="text" src="https://raw.githubusercontent.com/braydonwang/Biquadris/main/images/bonustext.png">
-</p>
+<img width="600" align="left" alt="graphics" src="https://raw.githubusercontent.com/braydonwang/Biquadris/main/images/bonusgraphics.png">
+<img width="200" alt="text" src="https://raw.githubusercontent.com/braydonwang/Biquadris/main/images/bonustext.png">
