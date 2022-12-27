@@ -9,3 +9,5 @@ Below is the final UML diagram for our project:
 
 <img width="1000" alt="UML" src="https://raw.githubusercontent.com/braydonwang/Biquadris/main/images/uml.png">
 
+The game is displayed through both text and graphics (using the XWindows library)
+
